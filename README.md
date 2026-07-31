@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/timely-logo.jpg" alt="Timely Logo" width="420"/>
+</p>
 # Timely
 
 ### Intelligent Reminder System  

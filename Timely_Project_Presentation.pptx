@@ -1,1 +1,4 @@
-docs/Timely_Project_Presentation.pptx
+git add docs/Timely_Project_Presentation.pptx
+git commit -m "Add project presentation PPTX"
+git push origin main
+
